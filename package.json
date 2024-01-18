@@ -1,5 +1,5 @@
 {
-  "name": "yurieye-ui",
+  "name": "yuriyeh-ui",
   "version": "1.0.0",
   "description": "A simple Web3 UI for the YuriYeh token on the Fantom blockchain.",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "tailwindcss",
     "ethers"
   ],
-  "author": "Your Name",
+  "author": "Yuri",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^16.11.12",
